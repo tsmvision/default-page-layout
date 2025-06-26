@@ -1,0 +1,36 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  height: 100vh;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.header {
+    background-color: gray;
+    height: 200px;
+}
+
+.main {
+    background-color: blue;
+    flex-grow: 1;
+}
+
+.element-a {
+    background-color: green;
+    height: 200px;
+}
+
+.element-b {
+    background-color: red;
+    height: 200px;
+}
+
+.footer {
+    background-color: yellow;
+    height: 200px;
+}
