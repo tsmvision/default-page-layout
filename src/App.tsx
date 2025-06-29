@@ -6,6 +6,7 @@ function App() {
     <div className='wrapper'>
         <div className='header'>header</div>
         <div className='main' >
+            main content here
             {/*<div className='element-a'>element a</div>*/}
             {/*<div className='element-b'>element b</div>*/}
         </div>

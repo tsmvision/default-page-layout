@@ -2,6 +2,7 @@
   margin: 0 auto;
   text-align: center;
   height: 100vh;
+  color: white;
 }
 
 .wrapper {
@@ -22,7 +23,7 @@
 
 .element-a {
     background-color: green;
-    height: 200px;
+    height: 100%;
 }
 
 .element-b {
